@@ -11,9 +11,11 @@ Here, we have implemented in python a stochastic sub-gradient optimization (SSGO
 
 If you use this code please cite: Wajid Arshad Abbasi, Amina Asif, Asa Ben-Hur and Fayyaz-ul-Amir Afsar Minhas (2018), "Learning Using Privileged Information for Protein Binding Affinity Prediction", DCIS, PIEAS, (preprint release). 
 
-#References
+# References
 
 [1]. Vapnik,V. and Izmailov,R. (2015) Learning Using Privileged Information: Simi-larity Control and Knowledge Transfer. J. Mach. Learn. Res., 16, 2023–2049.
+
 [2]. Shalev-Shwartz,S. et al. (2011) Pegasos: primal estimated sub-gradient solver for SVM. Math. Program., 127, 3–30.
+
 [3]. Wajid Arshad Abbasi, Amina Asif, Asa Ben-Hur and Fayyaz-ul-Amir Afsar Minhas (2018), "Learning Using Privileged Information for Protein Binding Affinity Prediction", DCIS, PIEAS, (preprint release).
 
