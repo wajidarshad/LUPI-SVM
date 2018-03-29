@@ -9,6 +9,7 @@ training example x. The crucial point in this paradigm is that the privileged in
 
 Here, we have implemented in python a stochastic sub-gradient optimization (SSGO) algorithm for LUPI, inspired by the Pegasos solver for conventional binary SVMs [2]. The detail of this implemenation is given in [3].
 
+# Citation details
 If you use this code please cite: Wajid Arshad Abbasi, Amina Asif, Asa Ben-Hur and Fayyaz-ul-Amir Afsar Minhas (2018), "Learning Using Privileged Information for Protein Binding Affinity Prediction", DCIS, PIEAS, (preprint release). 
 
 # References
