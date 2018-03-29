@@ -21,7 +21,7 @@ if __name__=="__main__":
                                  n_clusters_per_class=1)# make a toy dataset for classfication using SKlearn
     X_train, X_test, y_train, y_test = train_test_split(X, Y, test_size=0.2)# Splited data into train and test
     
-    clf=linclassLUPI(epochs=1000, Lambda=0.1,Lambda_star=0.01,Lambda_s=0.001)# Define LUPI-SVM Classfier
+    clf=linclassLUPI(epochs=1000, Lambda=0.1,Lambda_star=0.01,Lambda_s=0.001)# Define LUPI-SVM Classifier
     
     LUPI_train_data = list(zip(get_data_with_noise(X_train,0.2),X_train,y_train))
     """
