@@ -35,5 +35,5 @@ if __name__=="__main__":
     
     """
     clf.fit(LUPI_train_data) # for training we need both feature spaces
-    print(clf.predict_score(get_data_with_noise(X_test,0.2)))# for testing we need only input feature space
+    print("Predicted Scores:",clf.predict_score(get_data_with_noise(X_test,0.2)))# for testing we need only input feature space
     clf.save('trained_clf.txt')
