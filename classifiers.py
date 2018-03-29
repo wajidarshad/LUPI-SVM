@@ -11,7 +11,6 @@ This module contains the class definitions for the Stochastic subgradient descen
 
 import random
 import numpy as np
-import matplotlib.pyplot as plt
 
     
 class ClassifierBase:
